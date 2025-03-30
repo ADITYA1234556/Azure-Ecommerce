@@ -85,6 +85,9 @@ kubectl logs -l app=robot-shop -n robot-shop
 **Cart Micro Service:**  
 <img src="./cart.png" alt="Cart Micro Service">
 
+**Products Micro Service:**  
+<img src="./product.png" alt="Products Micro Service">
+
 **Shipping Micro Service:**  
 <img src="./shipping.png" alt="Shipping Micro Service">
 
