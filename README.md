@@ -80,18 +80,18 @@ kubectl logs -l app=robot-shop -n robot-shop
 ### **Microservices Overview**
 
 **Login Micro Service:**  
-<img src="./login.png" alt="Login Micro Service">
+<img src="./images/login.png" alt="Login Micro Service">
 
 **Cart Micro Service:**  
-<img src="./cart.png" alt="Cart Micro Service">
+<img src="./images/cart.png" alt="Cart Micro Service">
 
 **Products Micro Service:**  
-<img src="./product.png" alt="Products Micro Service">
+<img src="./images/product.png" alt="Products Micro Service">
 
 **Shipping Micro Service:**  
-<img src="./shipping.png" alt="Shipping Micro Service">
+<img src="./images/shipping.png" alt="Shipping Micro Service">
 
 **Payment Micro Service:**  
-<img src="./payment.png" alt="Payment Micro Service">
+<img src="./images/payment.png" alt="Payment Micro Service">
 
 
