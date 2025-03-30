@@ -1,4 +1,5 @@
 # Ecommerce Demo in AZURE
+In this project, I am hosting an ecommerce application in AKS. I am using <a href="https://github.com/instana/robot-shop">**Instana/robot-shop**</a> repo for getting source code and creating containers from that.
 
 ## **Steps to follow**
 - Created Azure Kubernetes cluster and connected to it
